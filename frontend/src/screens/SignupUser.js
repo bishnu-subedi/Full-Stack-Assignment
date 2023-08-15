@@ -47,7 +47,7 @@ function SignupUser() {
             </label>
             <input type="text" value={firstName} onChange={e => setFirstName(e.target.value)}
               className='input input-bordered h-[40px] input-info mb-2 rounded-l-full'
-              placeholder='Bidyut'
+              placeholder=''
             />
           </div>
 
@@ -57,7 +57,7 @@ function SignupUser() {
             </label>
             <input type="text" value={lastName} onChange={e => setLastName(e.target.value)}
               className='input input-bordered h-[40px] input-info mb-2 rounded-r-full'
-              placeholder='Maji'
+              placeholder=''
             />
           </div>
         </div>
