@@ -1,0 +1,31 @@
+## To Do List Web App (Documentation):
+a simple To-Do List application using Django as the backend framework and ReactJS as the frontend library.
+
+## Backend:
+
+# Getting started
+
+To get started, for backend, first configure the DATABASES section in "settings.py".
+
+Then run the following in a virtual environment inside "backend" directory:
+
+
+
+``` bash
+pip install -r requirements.txt
+python manage.py makemigrations
+python manage.py migrate
+python manage.py createsuperuser
+python manage.py runserver
+```
+
+## Frontend:
+
+To get started, for frontend, run the following inside the "frontend" directory:
+
+
+``` bash
+npm install
+npm start
+```
+
