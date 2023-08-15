@@ -1,5 +1,5 @@
 ## To Do List Web App (Documentation):
-a simple To-Do List application using Django as the backend framework and ReactJS as the frontend library.
+A simple To-Do List application using Django as the backend framework and ReactJS as the frontend library.
 
 ## Backend:
 
