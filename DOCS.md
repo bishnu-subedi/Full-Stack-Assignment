@@ -1,9 +1,16 @@
-## To Do List Web App (Documentation):
+# To Do List Web App (Documentation):
 A simple To-Do List application using Django as the backend framework and ReactJS as the frontend library.
+
+## Technologies used:
+
+1. Django Web Framework (for Backend)
+2. REST API
+3. ReactJS (for Frontend)
+4. MySQL (for Database)
 
 ## Backend:
 
-# Getting started
+### Getting started
 
 To get started, for backend, first configure the DATABASES section in "settings.py".
 
@@ -19,7 +26,7 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
-## Frontend:
+### Frontend:
 
 To get started, for frontend, run the following inside the "frontend" directory:
 
