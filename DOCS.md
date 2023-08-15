@@ -26,7 +26,7 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
-### Frontend:
+## Frontend:
 
 To get started, for frontend, run the following inside the "frontend" directory:
 
